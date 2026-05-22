@@ -1,0 +1,11 @@
+product/app/YouTube/YouTube.apk.zst
+product/app/Gmail2/Gmail2.apk.zst
+product/app/Meet/Meet.apk.zst
+product/app/Maps/Maps.apk.zst
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.zst
+product/app/Photos/Photos.apk.zst
+product/priv-app/Messages/Messages.apk.zst
+product/priv-app/GmsCore/GmsCore.apk.zst
+product/app/WebViewGoogle64/WebViewGoogle64.apk.zst
+vendor/lib64/libarcsoft_turbo_hdr_raw.so.zst
+vendor/lib64/libarcsoft_turbo_hdr_raw_portrait.so.zst

@@ -1,0 +1,14 @@
+# sssi_64-user 16 BQ2A.251110.001-BP2A.250605.031.A3 QSSI-16.2.0-REL-260403-2248 release-keys
+- manufacturer: sony
+- platform: canoe
+- codename: pdx267
+- flavor: sssi_64-user
+- release: 16
+- id: 73.0.A.2.27
+- incremental: QSSI-16.2.0-REL-260403-2248
+- tags: release-keys
+- fingerprint: Sony/pdx267/pdx267:16/BQ2A.251110.001-BP2A.250605.031.A3/CHIKUGO-1.0.0-REL-260407-0507:user/release-keys
+- is_ab: true
+- brand: Sony
+- branch: sssi_64-user-16-BQ2A.251110.001-BP2A.250605.031.A3-QSSI-16.2.0-REL-260403-2248-release-keys
+- repo: sony_pdx267_dump
